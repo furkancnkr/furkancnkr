@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A beginner Front-End Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JS,HTML5,CSS3**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **mfurkancnkr@gmail.com**
 
